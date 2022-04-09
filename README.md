@@ -11,7 +11,5 @@ I will code with python and use the opencv library.
 * opencv
 
 
-Blogging website: www.machinelearningman.com
-
 
  
